@@ -1,5 +1,6 @@
-# darkrp-default-config
+# darkrpmodification-mox
 Готовая базовая конфигурация darkrpmodification для серии видео по созданию DarkRP-сервера на моем канале Mox.
+Оригинал сборки https://github.com/FPtje/darkrpmodification
 
 # Что изменено:
 1. Первичная настройка режима.
